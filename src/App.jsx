@@ -1,4 +1,4 @@
-import AllHotelHandler from "./allHotels";
+import AllHotelHandler from "./AllHotels";
 import ShowHotelByName from "./ShowHotelByName";
 const App = () => {
   return (
